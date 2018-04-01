@@ -12,7 +12,9 @@
             ------ todaypro 专用条目提醒   bomb后端专用api
             ------ slack  channel提醒
             ------ 微信酱 提醒
-            ------ 自建 RSS 提醒
+            ------ 自建 RSS 提醒 
+                        -------- Hexo 网站搭建 RSS推送插件 
+                                            --------------- http://www.dongwm.com/archives/slackshang-de-xiao-huang-ji-slackbot/
 
          搜索功能单独实现：
 
@@ -21,6 +23,7 @@
             ------ elastic 系统化搜索
             ------ 语音搜索界面  -- rss界面模仿技术探索，在线语音采集分析系统
                          -------- 复杂环境\远场声音提取  （百度）
+
 
          信息系统单独实现：
 

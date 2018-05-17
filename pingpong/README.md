@@ -1,0 +1,2 @@
+使用乒乓策略，slack负责接收，DingDing负责推送
+使用Redis作为中间件
